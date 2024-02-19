@@ -17,6 +17,7 @@
      @include('components.banner')
      @include('components.topCompanies')
      @include('components.jobList')
+     @include('components.jobs')
     </main>
     
     @include('components.footer')
