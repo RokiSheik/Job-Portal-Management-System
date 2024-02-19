@@ -16,10 +16,11 @@
     <main>
      @include('components.banner')
      @include('components.topCompanies')
+     @include('components.jobList')
     </main>
-    <footer>
+    
+    @include('components.footer')
 
-    </footer>
 </body>
 
 </html>
